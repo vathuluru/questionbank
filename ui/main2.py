@@ -2,7 +2,7 @@ import streamlit as st
 from llmcall import get_answer
 
 # Add an image to the top of the page
-st.image("ui\\setting_35.png")
+st.image("ui/setting_35.png")
 
 # Streamlit app
 st.title("Question Generator")
